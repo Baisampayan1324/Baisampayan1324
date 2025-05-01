@@ -63,9 +63,8 @@
 - 📖 Manga I follow: Solo Leveling, Chainsaw Man, One Piece, and more  
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Baisampayan1324&icon=2&color=13" alt="Visitor Count"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+Visitor!+You+are+awesome!;Thanks+for+checking+out+my+profile!&center=true&width=380&height=45&color=58A6FF&vCenter=true&pause=1000&size=18" alt="Visitor Message" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Baisampayan1324&label=Connecting%20with%20developer&color=brightgreen&style=flat-square" alt="Visitor Count" />
 </p>
-
-<!-- Designed with ❤️ using GPRM ( https://gprm.itsvg.in ) -->
