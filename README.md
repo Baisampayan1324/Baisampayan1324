@@ -80,18 +80,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Baisampayan1324&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
-## 🏆 Featured Projects
-
-* 🤖 **Sign Language Interpreter**: Real-time sign detection using OpenCV + DL
-* 🧠 **ML Algorithms Repo**: Self-implemented learning models with notes
-* 🌐 **Full-Stack Web Apps**: Built with Django & Flask + Pythonic backends
-
-## 🎮 Interests Beyond Code
-
-* 👾 Gaming: From Soulslikes to strategy, I play to conquer and explore
-* 🚗 Cars: Mod culture fan, especially all things JDM
-* 📖 Manga: Big titles like Solo Leveling, JJK, One Piece, and beyond
-
 ---
 
 <div align="center">
