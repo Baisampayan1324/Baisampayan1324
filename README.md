@@ -8,66 +8,67 @@
   <a href="https://www.linkedin.com/in/baisampayan-dey-91ba89347"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Baisampayan1324"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:baisampayandey1999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/Baisampayan_De/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
-<h3 align="center">🚀 Software Developer | 🤖 AI & Emerging Tech Enthusiast | 🧠 Lifelong Learner</h3>
+<h3 align="center">AI/ML Developer | Software Engineer | Emerging Tech Enthusiast</h3>
 
 <div align="center">
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Baisampayan1324\&label=Connecting+with+developers\&color=0e75b6\&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=Baisampayan1324&label=Connecting+with+developers&color=0e75b6&style=flat" alt="Visitor Badge"/>
 </div>
 
-## 💫 About Me
+---
 
-🐬 Working on: A Real-Time Sign Language Interpreter to break communication barriers using AI and CV
+## 💡 About Me  
+- 🎯 **AI/ML Developer** with hands-on experience in **machine learning, deep learning, and LLM-based applications** (RAG pipelines, fine-tuning, inference).  
+- ⚡ Skilled in building **end-to-end AI solutions** with scalable deployment using **Streamlit, FastAPI, and cloud platforms**.  
+- 🤝 Open to **collaborating on innovative, impact-driven projects** that leverage AI for real-world problem-solving.  
+- 📈 Passionate about **algorithms & system design** – solved **300+ LeetCode problems** to sharpen coding proficiency.  
+- 🎮 Outside of coding: Manga 📚 | Car tuning 🚗 | Game lore 🎮  
 
-🌱 Growing expertise in: Machine Learning, Statistics, Data Visualization, and Data Science Tools
+---
 
-💼 Looking to collaborate on: Innovative, impact-driven AI products that benefit people
+## 🛠️ Tech Stack  
 
-📧 Contact me: [baisampayandey1999@gmail.com](mailto:baisampayandey1999@gmail.com)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
-🔥 Fun fact: I geek out over Manga, custom-tuned cars, and immersive game lore
+**AI/ML Frameworks & Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/ScikitLearn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## 🛠️ Tech Stack
+**Web & App Development**  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Languages
+**Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+**Dev Tools**  
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 
-### Frameworks & Libraries
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=Keras\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge\&logo=streamlit\&logoColor=white)
-
-### Data Science & ML
-
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge\&logo=scipy\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge\&logo=Firebase\&logoColor=FFCA28)
-
-### Tools & Environments
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge\&logo=cursor\&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge\&logo=anaconda\&logoColor=white)
+---
 
 ## 📊 GitHub Stats
 
