@@ -26,8 +26,8 @@
 - ⚙️ Skilled in **Python, FastAPI, Streamlit, React, and cloud-based deployment (Render, Heroku, Docker)**.  
 - 🧠 Built **production-grade full-stack AI apps** integrating **LangChain, Groq, OpenRouter, and Hugging Face APIs**.  
 - 🧩 Passionate about **problem-solving** — solved **300+ LeetCode problems** to sharpen DSA skills.  
-- 🎮 Outside tech: Manga 📚 | Car tuning 🚗 | Game lore 🎮  
-
+- 🎮 Outside tech: Manga 📚 | Car tuning 🚗 | Game lore 🎮
+- 📄 I am looking for a Job in AI. Take a glance at my [**Resume**](https://github.com/Baisampayan1324/My_Docx/raw/main/Personal%20Resume%20Updated.pdf).
 ---
 
 ## 🧱 Projects
