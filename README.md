@@ -28,21 +28,58 @@
 - 🧩 Passionate about **problem-solving** — solved **300+ LeetCode problems** to sharpen DSA skills.  
 - 🎮 Outside tech: Manga 📚 | Car tuning 🚗 | Game lore 🎮
 - 📄 I am looking for a Job in AI. Take a glance at my [**Resume**](https://github.com/Baisampayan1324/My_Docx/raw/main/Personal%20Resume%20Updated.pdf).
+
 ---
 
 ## 🧱 Projects
 
 ### 🧩 [DocuMind – AI RAG Chat System](https://github.com/Baisampayan1324/DocuMind)
-A production-ready **Retrieval-Augmented Generation (RAG)** system enabling users to query PDFs, Word, PPT, and text files using natural language.  
-**Tech:** Python, FastAPI, Streamlit, LangChain, FAISS, SQLite, Multi-LLM Integration, Docker  
+**Production-Ready Document Intelligence Platform**
+
+A sophisticated Retrieval-Augmented Generation (RAG) system enabling intelligent natural language querying across multiple document formats (PDFs, Word, PPT, Excel, TXT). Features semantic search, context-aware responses, and multi-document conversation persistence.
+
+**Key Features:**
+- Multi-format document parsing with intelligent chunking strategies
+- FAISS-powered vector embeddings for semantic similarity search  
+- Real-time streaming responses with LLM routing (OpenAI, Groq, OpenRouter)
+- Persistent chat history with SQLite & session management
+- Docker containerization for scalable cloud deployment
+
+**Tech:** Python · FastAPI · Streamlit · LangChain · FAISS · SQLite · OpenAI/Groq APIs · Docker · Render
+
+---
 
 ### 🧠 [Stress Analysis AI System](https://github.com/Baisampayan1324/Stress-Analysis-AI-System)
-AI-powered stress detection & counseling system integrating **ML + LLMs (Groq API)** for personalized insights.  
-**Tech:** Python, FastAPI, React (TypeScript), MongoDB Atlas, JWT Auth, LLM Integration  
+**Intelligent Mental Wellness & AI Counseling Platform**
+
+An end-to-end AI-powered stress detection and personalized counseling system leveraging machine learning for psychological assessment combined with LLM-driven conversational support. Provides real-time stress metrics, personalized coping strategies, and professional-grade insights.
+
+**Key Features:**
+- ML-based stress detection from conversation patterns & behavioral signals
+- Groq API integration for ultra-low-latency LLM responses (<100ms)
+- Real-time stress scoring with trend visualization dashboards
+- JWT-secured authentication & encrypted user data storage
+- TypeScript React frontend with interactive UI components
+- MongoDB Atlas for scalable user data management
+
+**Tech:** Python · FastAPI · React (TypeScript) · MongoDB Atlas · Groq API · JWT Auth · Chart.js · Render
+
+---
 
 ### 🗣️ [AI-MOM – Meeting Intelligence System](https://github.com/Baisampayan1324/AI-MOM)
-Real-time AI meeting summarizer using **Whisper ASR**, LLMs, and smart context extraction for key insights.  
-**Tech:** Python, FastAPI, NLP, Whisper, Chrome Extension, MongoDB, WebSockets  
+**Real-Time Meeting Summarization & Action Item Extraction**
+
+An intelligent meeting processing platform that captures live audio, transcribes it in real-time using OpenAI Whisper, and intelligently summarizes key discussions, decisions, and action items using advanced NLP and LLMs. Includes Chrome extension for seamless integration with Zoom, Google Meet, and Teams.
+
+**Key Features:**
+- Whisper ASR for accurate multi-speaker transcription with speaker diarization
+- Real-time streaming with WebSocket architecture for low-latency updates
+- Intelligent entity extraction: decisions, action items, deadlines, and owners
+- Chrome extension for 1-click recording across all meeting platforms
+- MongoDB-backed storage with advanced search & tagging capabilities
+- Auto-generated meeting briefs and follow-up email templates
+
+**Tech:** Python · FastAPI · Whisper ASR · NLP (spaCy) · LangChain · MongoDB · WebSockets · Chrome Extension · React
 
 ---
 
