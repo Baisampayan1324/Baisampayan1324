@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="AI/ML Banner" width="100%" />
+</p>
 <h1 align="center">
   Hello there!  <br>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" style="vertical-align: middle;" />
@@ -28,58 +31,6 @@
 - 🧩 Passionate about **problem-solving** — solved **300+ LeetCode problems** to sharpen DSA skills.  
 - 🎮 Outside tech: Manga 📚 | Car tuning 🚗 | Game lore 🎮
 - 📄 I am looking for a Job in AI. Take a glance at my [**Resume**](https://github.com/Baisampayan1324/My_Docx/raw/main/Personal%20Resume%20Updated.pdf).
-
----
-
-## 🧱 Projects
-
-### 🧩 [DocuMind – AI RAG Chat System](https://github.com/Baisampayan1324/DocuMind)
-**Production-Ready Document Intelligence Platform**
-
-A sophisticated Retrieval-Augmented Generation (RAG) system enabling intelligent natural language querying across multiple document formats (PDFs, Word, PPT, Excel, TXT). Features semantic search, context-aware responses, and multi-document conversation persistence.
-
-**Key Features:**
-- Multi-format document parsing with intelligent chunking strategies
-- FAISS-powered vector embeddings for semantic similarity search  
-- Real-time streaming responses with LLM routing (OpenAI, Groq, OpenRouter)
-- Persistent chat history with SQLite & session management
-- Docker containerization for scalable cloud deployment
-
-**Tech:** Python · FastAPI · Streamlit · LangChain · FAISS · SQLite · OpenAI/Groq APIs · Docker · Render
-
----
-
-### 🧠 [Stress Analysis AI System](https://github.com/Baisampayan1324/Stress-Analysis-AI-System)
-**Intelligent Mental Wellness & AI Counseling Platform**
-
-An end-to-end AI-powered stress detection and personalized counseling system leveraging machine learning for psychological assessment combined with LLM-driven conversational support. Provides real-time stress metrics, personalized coping strategies, and professional-grade insights.
-
-**Key Features:**
-- ML-based stress detection from conversation patterns & behavioral signals
-- Groq API integration for ultra-low-latency LLM responses (<100ms)
-- Real-time stress scoring with trend visualization dashboards
-- JWT-secured authentication & encrypted user data storage
-- TypeScript React frontend with interactive UI components
-- MongoDB Atlas for scalable user data management
-
-**Tech:** Python · FastAPI · React (TypeScript) · MongoDB Atlas · Groq API · JWT Auth · Chart.js · Render
-
----
-
-### 🗣️ [AI-MOM – Meeting Intelligence System](https://github.com/Baisampayan1324/AI-MOM)
-**Real-Time Meeting Summarization & Action Item Extraction**
-
-An intelligent meeting processing platform that captures live audio, transcribes it in real-time using OpenAI Whisper, and intelligently summarizes key discussions, decisions, and action items using advanced NLP and LLMs. Includes Chrome extension for seamless integration with Zoom, Google Meet, and Teams.
-
-**Key Features:**
-- Whisper ASR for accurate multi-speaker transcription with speaker diarization
-- Real-time streaming with WebSocket architecture for low-latency updates
-- Intelligent entity extraction: decisions, action items, deadlines, and owners
-- Chrome extension for 1-click recording across all meeting platforms
-- MongoDB-backed storage with advanced search & tagging capabilities
-- Auto-generated meeting briefs and follow-up email templates
-
-**Tech:** Python · FastAPI · Whisper ASR · NLP (spaCy) · LangChain · MongoDB · WebSockets · Chrome Extension · React
 
 ---
 
@@ -123,19 +74,6 @@ An intelligent meeting processing platform that captures live audio, transcribes
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baisampayan1324&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baisampayan1324&theme=tokyonight&hide_border=false&layout=compact" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Baisampayan1324&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</div>
 
 ---
 
