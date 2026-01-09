@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="AI/ML Banner" width="100%" />
-</p>
+
 <h1 align="center">
   Hello there!  <br>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" style="vertical-align: middle;" />
