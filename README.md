@@ -18,8 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=Baisampayan1324&label=Connecting+with+developers&color=0e75b6&style=flat" alt="Visitor Badge"/>
 </p>
 
----
-
 ## 💡 About Me
 
 - 🤖 **AI/ML Engineer** experienced in **LLMs, RAG pipelines, fine-tuning, and scalable inference systems**.
