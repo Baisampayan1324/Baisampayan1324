@@ -18,20 +18,20 @@
   <img src="https://komarev.com/ghpvc/?username=Baisampayan1324&label=Connecting+with+developers&color=0e75b6&style=flat" alt="Visitor Badge"/>
 </p>
 
-## 💡 About Me
+## About Me
 
-- 🤖 **AI/ML Engineer** experienced in **LLMs, RAG pipelines, fine-tuning, and scalable inference systems**.
-- ⚙️ Skilled in **Python, FastAPI, Streamlit, React, and cloud-based deployment (Render, Docker, GCP)**.
-- 🧠 Built **production-grade full-stack AI apps** integrating **LangChain, LangGraph, Groq, OpenRouter, and Hugging Face APIs**.
-- 🧩 Passionate about **problem-solving** — solved **300+ LeetCode problems** to sharpen DSA skills.
-- 🎮 Outside tech: Manga 📚 | Car tuning 🚗 | Game lore 🎮
-- 📄 Actively looking for **AI/ML roles** — check out my [**Resume**](https://github.com/Baisampayan1324/My_Docx/raw/main/Personal%20Resume%20Updated.pdf).
+- **AI/ML Engineer** experienced in **LLMs, RAG pipelines, fine-tuning, and scalable inference systems**.
+- Skilled in **Python, FastAPI, Streamlit, React, and cloud-based deployment (Render, Docker, GCP)**.
+- Built **production-grade full-stack AI apps** integrating **LangChain, LangGraph, Groq, OpenRouter, and Hugging Face APIs**.
+- Passionate about **problem-solving** — solved **300+ LeetCode problems** to sharpen DSA skills.
+- Outside tech: Manga 📚 | Car tuning 🚗 | Game lore 🎮
+- Actively looking for **AI/ML roles** — check out my [**Resume**](https://github.com/Baisampayan1324/My_Docx/raw/main/Personal%20Resume%20Updated.pdf).
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<h4>🖥️ Languages</h4>
+<h4>Languages</h4>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,7 +39,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h4>🤖 AI / ML Frameworks</h4>
+<h4>AI / ML Frameworks</h4>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -54,7 +54,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-<h4>🌐 Frameworks & Deployment</h4>
+<h4>Frameworks & Deployment</h4>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -65,14 +65,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 
-<h4>🗄️ Databases & Cloud</h4>
+<h4>Databases & Cloud</h4>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<h4>🔧 Dev Tools</h4>
+<h4>Dev Tools</h4>
 
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
