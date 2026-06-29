@@ -25,7 +25,7 @@
 - Built **production-grade full-stack AI apps** integrating **LangChain, LangGraph, Groq, OpenRouter, and Hugging Face APIs**.
 - Passionate about **problem-solving** — solved **300+ LeetCode problems** to sharpen DSA skills.
 - Outside tech: Manga 📚 | Car tuning 🚗 | Game lore 🎮
-- Actively looking for **AI/ML roles** — check out my [**Resume**](https://github.com/Baisampayan1324/My_Docx/raw/main/Personal%20Resume%20Updated.pdf).
+- Actively looking for **AI/ML roles** — check out my [**Resume**](https://drive.google.com/file/d/1EuypLMFigJg8yYvp9s5Fo18BxTv2LCvF/view?usp=sharing).
 
 ---
 
